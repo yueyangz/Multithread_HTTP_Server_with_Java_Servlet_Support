@@ -1,0 +1,736 @@
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:05:49 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Session Manager created!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:07:39 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Session Manager created!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:13:05 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Session Manager created!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Session Manager created!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Servlet container created!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:18:39 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:06 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:07 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exception in MyHttpServletResponse!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Session Manager created!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Servlet container created!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog warn
+WARNING: Server throws IO Exceptions in prepare!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 1 is shutting down!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 2 is shutting down!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 3 is shutting down!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 4 is shutting down!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 5 is shutting down!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 6 is shutting down!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 7 is shutting down!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 8 is shutting down!
+
+
+Feb 20, 2017 9:21:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Server throws NulPointerException in stopServer!
+
+
+Feb 20, 2017 9:22:04 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Session Manager created!
+
+
+Feb 20, 2017 9:22:04 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Servlet container created!
+
+
+Feb 20, 2017 9:22:20 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Reading client request time out!
+
+
+Feb 20, 2017 9:22:23 PM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 20, 2017 9:22:29 PM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 20, 2017 9:22:39 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Reading client request time out!
+
+
+Feb 20, 2017 9:22:45 PM edu.upenn.cis455.webserver.MyLog info
+INFO: 304 Not Modified!
+
+
+Feb 20, 2017 9:22:56 PM edu.upenn.cis455.webserver.MyLog info
+INFO: All servlets are killed
+
+
+Feb 20, 2017 9:22:56 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 1 is shutting down!
+
+
+Feb 20, 2017 9:22:56 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 2 is shutting down!
+
+
+Feb 20, 2017 9:22:56 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 3 is shutting down!
+
+
+Feb 20, 2017 9:22:56 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 4 is shutting down!
+
+
+Feb 20, 2017 9:22:56 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 5 is shutting down!
+
+
+Feb 20, 2017 9:22:56 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 6 is shutting down!
+
+
+Feb 20, 2017 9:22:56 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 7 is shutting down!
+
+
+Feb 20, 2017 9:22:56 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 9 is shutting down!
+
+
+Feb 20, 2017 9:22:56 PM edu.upenn.cis455.webserver.MyLog info
+INFO: Server throws IO Exception in main!
+
+
+Feb 21, 2017 10:02:50 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Session Manager created!
+
+
+Feb 21, 2017 10:02:50 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Servlet container created!
+
+
+Feb 21, 2017 10:03:10 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 404 Not Found!
+
+
+Feb 21, 2017 10:03:13 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 304 Not Modified!
+
+
+Feb 21, 2017 10:04:25 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 400 Bad Request!
+
+
+Feb 21, 2017 10:04:39 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 404 Not Found!
+
+
+Feb 21, 2017 10:04:45 AM edu.upenn.cis455.webserver.MyLog warn
+WARNING: 500 Internal Server Error because servlet throws exceptions during service!
+
+
+Feb 21, 2017 10:05:18 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:05:43 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 404 Not Found!
+
+
+Feb 21, 2017 10:05:48 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:05:50 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:05:58 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 404 Not Found!
+
+
+Feb 21, 2017 10:06:43 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:06:49 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:06:53 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:06:54 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:07:22 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:07:33 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:07:35 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:07:41 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 400 Bad Request!
+
+
+Feb 21, 2017 10:08:18 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:08:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 400 Bad Request!
+
+
+Feb 21, 2017 10:08:31 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Accessed an existing session!
+
+
+Feb 21, 2017 10:08:31 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:08:33 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Accessed an existing session!
+
+
+Feb 21, 2017 10:08:33 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:08:40 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 400 Bad Request!
+
+
+Feb 21, 2017 10:08:42 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Accessed an existing session!
+
+
+Feb 21, 2017 10:08:42 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Accessed an existing session!
+
+
+Feb 21, 2017 10:08:42 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:08:51 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Accessed an existing session!
+
+
+Feb 21, 2017 10:08:51 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Accessed an existing session!
+
+
+Feb 21, 2017 10:08:51 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:09:00 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 400 Bad Request!
+
+
+Feb 21, 2017 10:09:16 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 400 Bad Request!
+
+
+Feb 21, 2017 10:09:17 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+                                                                                        Feb 21, 2017 10:10:58 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Session Manager created!
+
+
+Feb 21, 2017 10:10:58 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Servlet container created!
+
+
+Feb 21, 2017 10:11:09 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 404 Not Found!
+
+
+Feb 21, 2017 10:11:14 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 304 Not Modified!
+
+
+Feb 21, 2017 10:11:51 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 404 Not Found!
+
+
+Feb 21, 2017 10:11:52 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 304 Not Modified!
+
+
+Feb 21, 2017 10:12:29 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 404 Not Found!
+
+
+Feb 21, 2017 10:13:33 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 304 Not Modified!
+
+
+Feb 21, 2017 10:13:52 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 404 Not Found!
+
+
+Feb 21, 2017 10:13:57 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 304 Not Modified!
+
+
+Feb 21, 2017 10:14:11 AM edu.upenn.cis455.webserver.MyLog warn
+WARNING: 500 Internal Server Error because servlet throws exceptions during service!
+
+
+Feb 21, 2017 10:14:17 AM edu.upenn.cis455.webserver.MyLog warn
+WARNING: 501 Not Implemented!
+
+
+Feb 21, 2017 10:14:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: All servlets are killed
+
+
+Feb 21, 2017 10:14:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 1 is shutting down!
+
+
+Feb 21, 2017 10:14:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 2 is shutting down!
+
+
+Feb 21, 2017 10:14:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 3 is shutting down!
+
+
+Feb 21, 2017 10:14:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 4 is shutting down!
+
+
+Feb 21, 2017 10:14:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 5 is shutting down!
+
+
+Feb 21, 2017 10:14:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 6 is shutting down!
+
+
+Feb 21, 2017 10:14:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 8 is shutting down!
+
+
+Feb 21, 2017 10:14:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 9 is shutting down!
+
+
+Feb 21, 2017 10:14:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Server throws IO Exception in main!
+
+
+Feb 21, 2017 10:14:58 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Session Manager created!
+
+
+Feb 21, 2017 10:14:58 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Servlet container created!
+
+
+Feb 21, 2017 10:15:02 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Accessed an existing session!
+
+
+Feb 21, 2017 10:15:02 AM edu.upenn.cis455.webserver.MyLog info
+INFO: A response was sent to the client!
+
+
+Feb 21, 2017 10:15:08 AM edu.upenn.cis455.webserver.MyLog info
+INFO: All servlets are killed
+
+
+Feb 21, 2017 10:15:08 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 2 is shutting down!
+
+
+Feb 21, 2017 10:15:08 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 3 is shutting down!
+
+
+Feb 21, 2017 10:15:08 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 4 is shutting down!
+
+
+Feb 21, 2017 10:15:08 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 5 is shutting down!
+
+
+Feb 21, 2017 10:15:08 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 6 is shutting down!
+
+
+Feb 21, 2017 10:15:08 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 7 is shutting down!
+
+
+Feb 21, 2017 10:15:08 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 8 is shutting down!
+
+
+Feb 21, 2017 10:15:08 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 9 is shutting down!
+
+
+Feb 21, 2017 10:15:08 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Server throws IO Exception in main!
+
+
+Feb 21, 2017 10:15:17 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Session Manager created!
+
+
+Feb 21, 2017 10:15:17 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Servlet container created!
+
+
+Feb 21, 2017 10:15:26 AM edu.upenn.cis455.webserver.MyLog info
+INFO: 304 Not Modified!
+
+
+Feb 21, 2017 10:38:01 AM edu.upenn.cis455.webserver.MyLog info
+INFO: All servlets are killed
+
+
+Feb 21, 2017 10:38:01 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 2 is shutting down!
+
+
+Feb 21, 2017 10:38:01 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 3 is shutting down!
+
+
+Feb 21, 2017 10:38:01 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 4 is shutting down!
+
+
+Feb 21, 2017 10:38:01 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 5 is shutting down!
+
+
+Feb 21, 2017 10:38:01 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 6 is shutting down!
+
+
+Feb 21, 2017 10:38:01 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 7 is shutting down!
+
+
+Feb 21, 2017 10:38:01 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 8 is shutting down!
+
+
+Feb 21, 2017 10:38:01 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Thread 9 is shutting down!
+
+
+Feb 21, 2017 10:38:01 AM edu.upenn.cis455.webserver.MyLog info
+INFO: Server throws IO Exception in main!
+
+
